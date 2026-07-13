@@ -1,3 +1,35 @@
+
+
+Một dự án nguồn mở cực kỳ cực kỳ hữu dụng nếu bạn muốn tương tác với SMS như nhận/gửi OTP, gửi tin nhắn chăm sóc khách hàng mà ko phải trả chi phí SMS Brandname tốn kém, ứng dụng này sẽ biến điện thoại Android thành SMS Gateway chỉ trong vài phút
+
+Đây là dự án mã nguồn mở giúp biến bất kỳ điện thoại Android nào thành một SMS Gateway hoàn chỉnh. Chỉ cần kết nối điện thoại với hệ thống, bạn có thể gửi và nhận SMS thông qua HTTP API, webhook hoặc SDK mà vẫn sử dụng chính SIM của mình.
+
+Tính năng nổi bật
+
+* Biến điện thoại Android thành SMS Gateway.
+* Gửi và nhận SMS thông qua HTTP API đơn giản.
+* Hỗ trợ webhook theo thời gian thực khi có SMS hoặc cuộc gọi đến.
+* Mã hóa đầu cuối giúp bảo vệ nội dung tin nhắn.
+* Lên lịch gửi SMS trong tương lai.
+* Điều chỉnh tốc độ gửi để tránh bị nhà mạng giới hạn.
+* Hỗ trợ MMS và gửi hàng loạt.
+* Có SDK cho nhiều ngôn ngữ lập trình phổ biến.
+* Có thể tự triển khai (self-host) hoặc sử dụng dịch vụ có sẵn.
+* Hoạt động với chính số điện thoại và SIM hiện có của bạn.
+
+Ứng dụng thực tế
+
+* Xây dựng hệ thống gửi mã OTP.
+* Gửi thông báo từ CRM hoặc ERP.
+* Tự động gửi SMS chăm sóc khách hàng.
+* Kết nối SMS với AI Agent hoặc chatbot.
+* Tạo hệ thống xác thực hai lớp (2FA).
+* Nhận SMS để kích hoạt các workflow tự động.
+* Thay thế các dịch vụ SMS Gateway trả phí trong nhiều trường hợp.
+
+Điều mình đánh giá cao nhất ở giải pháp này là cách tiếp cận rất thực tế. Thay vì yêu cầu mua số điện thoại ảo hoặc thuê hạ tầng SMS, dự án tận dụng ngay chiếc điện thoại Android cũ của bạn để trở thành một cổng SMS có thể lập trình được. Điều này đặc biệt hữu ích với các startup, doanh nghiệp nhỏ hoặc những quốc gia mà dịch vụ SMS Gateway quốc tế còn hạn chế.
+
+
 # httpSMS
 
 [![Web](https://github.com/NdoleStudio/httpsms/actions/workflows/web.yml/badge.svg)](https://github.com/NdoleStudio/httpsms/actions/workflows/web.yml)
